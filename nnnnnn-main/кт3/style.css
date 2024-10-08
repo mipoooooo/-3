@@ -1,0 +1,195 @@
+.wrapper {
+    height: calc(1000vh - 100px);
+    width:calc(1000vh - 100px);
+    padding: 50px 0 50px 50px;
+    background-color: #222;
+}
+h3 {
+    font-size: 2rem;
+    text-align: right;
+    color: #ffffff;
+}
+h1 {
+    font-size: 3rem;
+    color: #ffffff;
+}
+.container{
+    display: flex;  
+    gap: 5px;
+    width: 500vw;
+}
+.column1{
+    display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+            
+        }   
+        .column2{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 0.01px;
+
+        }
+
+        .column3{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column4{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column5{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column6{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 0.01px;
+
+        }
+        .column7{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column8{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column9{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 0.01px;
+
+        }
+        .column10{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column11{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .column12{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 218px;
+            height: 100%;
+            margin-right: 40px;
+
+        }
+        .element{
+            width: 100px;
+            height: 100px;
+        }
+        .big{
+            width: 210px;
+        }
+        .huge{
+            width: 210px;
+            height: 210px;
+            margin-bottom: 0.01px;
+        }
+        .pink{
+            background-color: #f06;
+        }
+        .blue{
+            background-color: #06c;
+        }
+        .orange{
+            background-color: #f30;
+        }
+        .yellow{
+            background-color: #fc0;
+        }   
+        .green{
+            background-color: #0c0;
+        }
+        .turquoise{
+            background-color: #0c9;
+        }
+        .purple{
+            background-color: #66c;
+        }
+        .darkpurple{
+            background-color: #63c;
+        }
+        .crimson{
+            background-color: #c06;
+        }
+        .icon{
+            width: 80px;
+            margin-top: 10px;
+            margin-left: 2px;
+        }
+
+        .iconn{
+            width: 80px;
+            margin-top: 10px;
+            margin-left: 60px;
+        }
+
+        .iconnn{
+            width: 180px;
+            margin-top: 20px;
+            margin-left: 10px;
+        }
+        .iconnnn{
+            width: 80px;
+            margin-top: 10px;
+            margin-left: 60px;
+        }
+        .iconnnnn{
+            width: 50px;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
